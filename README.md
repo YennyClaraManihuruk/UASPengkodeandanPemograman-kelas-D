@@ -138,12 +138,15 @@ Pola yang Ditemukan:
 
 Interpretasi Grafik: 3D Scatter Plot Jumlah Buku Terjual vs. Pendapatan vs. Tanggal.
 1.	Hubungan Positif Antara Jumlah Buku Terjual dan Pendapatan:
+   
 •	Grafik menunjukkan bahwa ada hubungan positif antara jumlah buku yang terjual dan pendapatan. Ini berarti semakin banyak buku yang terjual, semakin tinggi pendapatan yang dihasilkan.
 
-2.	Distribusi Data Berdasarkan Tanggal:
+3.	Distribusi Data Berdasarkan Tanggal:
+   
 •	Terdapat distribusi data yang bervariasi berdasarkan tanggal, dengan beberapa tanggal menunjukkan penjualan buku yang lebih tinggi dan pendapatan yang lebih besar.
 •	Penjualan tertinggi (dalam jumlah buku terjual) dicapai sekitar tanggal 738905 dengan pendapatan mendekati 600,000.
-3.	Pola yang Ditemukan:
+4.	Pola yang Ditemukan:
+
 •	Tanggal-tanggal tertentu memiliki performa yang sangat baik, seperti yang terlihat pada penjualan tertinggi di sekitar tanggal 738905.
 •	Pada tanggal yang lebih awal (seperti 738885 hingga 738895), jumlah buku yang terjual lebih sedikit dengan pendapatan yang lebih rendah, menunjukkan tren kenaikan dalam penjualan dan pendapatan seiring waktu.
     Grafik ini memberikan gambaran yang jelas tentang bagaimana penjualan buku meningkat seiring waktu dan bagaimana peningkatan jumlah buku yang terjual berkontribusi terhadap peningkatan pendapatan. Data menunjukkan adanya tren positif antara jumlah buku terjual dan pendapatan, dengan beberapa tanggal menonjol sebagai hari dengan penjualan dan pendapatan yang sangat tinggi. Secara keseluruhan, grafik ini menunjukkan bahwa peningkatan jumlah buku terjual berbanding lurus dengan peningkatan pendapatan, dan tren ini terlihat lebih jelas pada tanggal-tanggal tertentu.
